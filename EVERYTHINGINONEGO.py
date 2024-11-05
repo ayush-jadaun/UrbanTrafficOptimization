@@ -1,7 +1,6 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from scipy import stats
 
 df = pd.read_csv(r"C:\Users\Ayush\Desktop\TraFFIC DATA VISION\Prayagraj_Traffic_Data.csv")
 df['timestamp'] = pd.to_datetime(df['timestamp'])
