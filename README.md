@@ -12,9 +12,8 @@ The dataset used in this project is `Prayagraj_Traffic_Data.csv`, which contains
 
 ## Installation
 To run this project, you will need to have Python installed on your system along with the following packages:
-- pandas
-- seaborn
-- matplotlib
+- Pandas
+- Matplotlib
 
 ## How to use: 
 
@@ -26,7 +25,7 @@ pip install pandas seaborn matplotlib
 ## Created by: 
 1. Ayush Jadaun - 20244048
 2. Vishu sharma - 20244176
-3. Akshay Yadav - 20244015
+
 
 
 
